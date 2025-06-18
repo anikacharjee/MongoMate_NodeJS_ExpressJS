@@ -26,4 +26,16 @@ MongoMate is a beginner-friendly full-stack Node.js project for handling form su
 
 ---
 
-## Run MongoDB 
+## Run MongoDB Locally
+
+` mongod.exe --dbpath='DB PATH' `
+
+---
+
+## Execute the Project on the terminal
+
+`nodemon app.js`
+OR
+`node app.js`
+
+---
