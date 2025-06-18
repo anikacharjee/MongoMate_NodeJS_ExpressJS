@@ -15,14 +15,7 @@ MongoMate is a beginner-friendly full-stack Node.js project for handling form su
 
 ## Folder Structure
 
-project-folder/
-│── public/
-│   ├── form.html
-│   └── styles/
-│       └── form.css
-│── models/
-│   └── User.js
-│── app.js
-│── package.json
+![image](https://github.com/user-attachments/assets/06846d59-66b6-4c3b-9e69-a07530bf1c10)
+
 
 ---
