@@ -19,3 +19,11 @@ MongoMate is a beginner-friendly full-stack Node.js project for handling form su
 
 
 ---
+
+## Install Dependencies
+
+`npm install express body-parser mongoose`
+
+---
+
+## Run MongoDB 
